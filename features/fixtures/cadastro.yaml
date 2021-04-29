@@ -1,0 +1,16 @@
+  gender: "Mrs."
+  nome: "Raoni Candidodo"
+  sobrenome: "Okabayashi Rodrigues"
+  company: "Kobas Automation Testing"
+  email: raoni.rodriguess@gmail.com
+  senha: "pwd@123*"
+  WrongEmail: raoni.rodriguess@gmail.net
+  WrongPass: "123@pwd*"
+  address1: "Rua Jacarandá 597"
+  address2: "Jardim Santa Rita"
+  city: "Embu das Artes"
+  cep: "12345"
+  more_infos: "lorem ipsum dolor sit amet"
+  home_phone: "42437456"
+  mobile_phone: "933400902"
+  alias: "Apagou e Escreveu aqui"
