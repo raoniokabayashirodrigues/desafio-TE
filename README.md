@@ -5,7 +5,7 @@ Este teste é destinado à empresa Total Express, como parte do processo seletiv
 ## Não se esqueça:
 
 * Baixe todas as dependências com o comando Bundle Install;
-* Certifique-se de apontar o Chromedriver para a sua pasta de preferência;
+* Certifique-se de apontar o Chromedriver para o path do seu sistema operacional;
 * Aperte o play e Enjoy!
 
 Obrigado! =)
